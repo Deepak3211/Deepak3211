@@ -4,7 +4,7 @@
 
 
 
-- 📫 Reach out to me at **[`deepakcse96@gmail.com`](mailto:deepakcse96@gmail.com)**
+- 📫 Reach out to me at **(mailto:deepakcse96@gmail.com)**
 - 💼 See my full portfolio at **[`deepakkaushal.in`](https://deepakkaushal.in)**
 <br>
 
