@@ -4,7 +4,7 @@
 
 
 
- 💻 See my full portfolio at **[`https://www.deepakkaushal.in/`](https://www.deepakkaushal.in)**
+ 💻 See my full portfolio at **[`https://www.deepakkaushal.in`](https://www.deepakkaushal.in)**
 <br>
 
 <div>
