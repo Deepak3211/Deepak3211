@@ -149,9 +149,11 @@ Multi-tenant real-time analytics platform processing high-frequency event data.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak3211&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak3211&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deepak3211&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak3211&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 <div align="center">
