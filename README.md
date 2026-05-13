@@ -5,9 +5,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&random=false&width=620&lines=🏪+Sharetribe+Flex+Marketplace+Expert;🛍️+Headless+Shopify+Storefront+Builder;⚡+Full-Stack+React+%2F+Next.js+Engineer;🤖+AI+%26+LLM+Integration+Specialist;🚀+6%2B+Years+·+50%2B+Projects+·+30%2B+Happy+Clients" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&random=false&width=660&lines=Sharetribe+Flex+Marketplace+Expert;Headless+Shopify+Storefront+Builder;Full-Stack+React+%2F+Next.js+Engineer;AI+%26+LLM+Integration+Specialist;6%2B+Years+%7C+50%2B+Projects+%7C+30%2B+Happy+Clients" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -21,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-deepakcse96@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/deepak-kaushal" target="_blank">
+  <a href="https://www.linkedin.com/in/deepak-kaushal-0b6b57107/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -151,13 +149,13 @@ Multi-tenant real-time analytics platform processing high-frequency event data.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak3211&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak3211&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak3211&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak3211&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=deepak3211&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 ---
